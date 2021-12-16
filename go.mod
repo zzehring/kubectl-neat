@@ -33,7 +33,7 @@ require (
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v2 v2.2.4 // indirect
 	k8s.io/api v0.17.0 // indirect
-	k8s.io/apiextensions-apiserver v0.0.0 // indirect
+	k8s.io/apiextensions-apiserver v0.17.0 // indirect
 	k8s.io/apiserver v0.17.0 // indirect
 	k8s.io/component-base v0.17.0 // indirect
 	k8s.io/klog v1.0.0 // indirect
